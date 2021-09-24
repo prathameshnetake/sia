@@ -5,6 +5,7 @@
 
 /* global CSS */
 
-body {
-  background-color: hsl(0, 0%, 25%);
+:root {
+  --color-primary: #5c6ac4;
+  --color-secondary: #ecc94b;
 }

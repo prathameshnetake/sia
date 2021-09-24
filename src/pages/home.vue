@@ -1,3 +1,7 @@
+<script setup lang="ts">
+  import MainView from "../screens/main/main.vue"
+</script>
+
 <template>
-  <h1>This is home</h1>
+  <main-view />
 </template>
