@@ -1,8 +1,7 @@
 <script setup lang="ts">
-    import SiaButton from "../../components/Button/button.vue"
+import Button from "../../components/Button/button.vue";
 </script>
 
 <template>
-    this is topbar
-    <sia-button></sia-button>
+  <div class="w-full h-24 bg-yellow-50">this is topbar</div>
 </template>
